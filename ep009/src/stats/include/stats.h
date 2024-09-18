@@ -1,0 +1,1 @@
+double mean(int *value, int count);
